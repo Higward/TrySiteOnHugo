@@ -1,0 +1,28 @@
+baseURL = "http://example.org/"
+theme = "fwftheme"
+languageCode = "en-us"
+title = "Блог"
+description = "Пустой блог о ничего"
+paginate = 6
+
+
+[[menu.main]]
+name = "Об блоге"
+url = "/about"
+
+[[menu.main]]
+name = "Категории"
+url = "/categories"
+
+[[menu.social]]
+name = "Call-to-void"
+url = "/contact"
+
+[[menu.footer]]
+name = "Об блоге"
+url = "/about"
+
+[[menu.footer]]
+name = "Прайвоси"
+url = "/privacy"
+
